@@ -1,6 +1,8 @@
 
 # Royal Saudi Navy Legal Expert System 🚢⚖️ | Modular Portfolio Edition
 
+![Royal Saudi Navy Legal Expert UI](ui_mockup.png)
+
 ## Project Overview
 This project is a state-of-the-art **RAG (Retrieval-Augmented Generation)** system fine-tuned to act as a legal expert on Royal Saudi Navy jurisdiction and maritime law. It features a fully modular architecture with a robust **FastAPI** backend and a modern **React/Vite** frontend.
 
@@ -8,7 +10,6 @@ This project is a state-of-the-art **RAG (Retrieval-Augmented Generation)** syst
 **Fine-Tuning Method:** LoRA (Low-Rank Adaptation)
 **Architecture:** Modular (FastAPI + React)
 
-![Royal Saudi Navy Legal Expert UI](ui_mockup.png)
 
 ## Key Features
 - **Modern Full-Stack Architecture**: Clean separation of concerns with a RESTful API and a responsive web UI.
