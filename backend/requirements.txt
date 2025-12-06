@@ -1,0 +1,13 @@
+
+fastapi
+uvicorn
+python-multipart
+python-dotenv
+torch
+transformers
+datasets
+peft
+accelerate
+sentencepiece
+pdfplumber
+nltk
