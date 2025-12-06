@@ -8,6 +8,8 @@ This project is a state-of-the-art **RAG (Retrieval-Augmented Generation)** syst
 **Fine-Tuning Method:** LoRA (Low-Rank Adaptation)
 **Architecture:** Modular (FastAPI + React)
 
+![Royal Saudi Navy Legal Expert UI](ui_mockup.png)
+
 ## Key Features
 - **Modern Full-Stack Architecture**: Clean separation of concerns with a RESTful API and a responsive web UI.
 - **Automated Pipeline**: End-to-end workflow from PDF upload to dataset generation to model fine-tuning.
